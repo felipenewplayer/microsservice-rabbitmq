@@ -1,1 +1,1 @@
-Projeto com 3 micro serviços se comunicando com RabbitMQ.
+Projeto com 3 microsserviços se comunicando com RabbitMQ.
